@@ -2,6 +2,9 @@
  
 This repo contains a patch for the BfBB executable to remove all instances of code that enable the autosave feature.
  
+## Download
+- Download/Clone this repo or use [This Link](https://github.com/SquareMan/bfbbnoautosave/raw/master/nosavegame.ips) to download the most recent patch file.
+ 
 ## Recommended Installation
 - Through your Xbox's file manager or using FTP create the folder Homebrew on your E:\ partition if it does not already existing
 - Copy the `SpongeBobSquarePants` folder from `E:\Games` to `E:\Homebrew`
